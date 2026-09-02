@@ -71,3 +71,9 @@ I'm a Principal Software Engineer working across iOS, Swift, and AI. These are s
 [Bow OpenAPI](https://github.com/bow-swift/bow-openapi) is a command-line tool that generates Swift network clients and Swift packages from OpenAPI or Swagger specifications, with support for Xcode integration and testable effects through Bow.
 
 [Repository](https://github.com/bow-swift/bow-openapi) · [Website and documentation](https://openapi.bow-swift.io/)
+
+## Stormfather
+
+[Stormfather](https://github.com/truizlop/stormfather) is an original, unofficial fan-made living 3D atlas of Roshar, built with React, Three.js, and Blender. It combines an explorable continent with detailed landmarks, animated inhabitants, caravans, ships, and a Highstorm that travels across the world.
+
+[Repository](https://github.com/truizlop/stormfather) · [Explore the atlas](https://truizlop.github.io/stormfather/)
