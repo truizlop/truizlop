@@ -74,6 +74,8 @@ I'm a Principal Software Engineer working across iOS, Swift, and AI. These are s
 
 ## Stormfather
 
+[![Stormfather — an interactive map and simulation of Roshar](https://raw.githubusercontent.com/truizlop/stormfather/main/banner.png)](https://truizlop.github.io/stormfather/)
+
 [Stormfather](https://github.com/truizlop/stormfather) is an original, unofficial fan-made living 3D atlas of Roshar, built with React, Three.js, and Blender. It combines an explorable continent with detailed landmarks, animated inhabitants, caravans, ships, and a Highstorm that travels across the world.
 
 [Repository](https://github.com/truizlop/stormfather) · [Explore the atlas](https://truizlop.github.io/stormfather/)
