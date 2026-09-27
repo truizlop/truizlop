@@ -1,6 +1,6 @@
 # Hi, I'm Tomás Ruiz-López 👋
 
-I'm a Principal Software Engineer working across iOS, Swift, and AI. These are some of the open-source projects I've built and contributed to.
+I'm a Principal Software Engineer working across iOS, Swift, and AI. These are some of the open-source projects I've built and contributed to, followed by apps I've developed.
 
 ## Bow
 
@@ -79,3 +79,61 @@ I'm a Principal Software Engineer working across iOS, Swift, and AI. These are s
 [Stormfather](https://github.com/truizlop/stormfather) is an original, unofficial fan-made living 3D atlas of Roshar, built with React, Three.js, and Blender. It combines an explorable continent with detailed landmarks, animated inhabitants, caravans, ships, and a Highstorm that travels across the world.
 
 [Repository](https://github.com/truizlop/stormfather) · [Explore the atlas](https://truizlop.github.io/stormfather/)
+
+## Apps
+
+### Relax
+
+[![Relax — guided breathing and mindful journaling](assets/apps/relax.png)](https://apps.apple.com/app/id6499126346)
+
+Relax is a self-care app for guided breathing, mood journaling, and daily affirmations. It offers a quiet space to pause, reflect on your day, and build a more mindful routine.
+
+[App Store](https://apps.apple.com/app/id6499126346)
+
+### Morphio
+
+[![Morphio — turn portraits into flowing transformations](assets/apps/morphio.png)](https://truizlop.github.io/morphio-landing/)
+
+Morphio turns a sequence of portraits into smooth face-morphing animations. Choose two to eight photos, set the rhythm, and share the transformation as a video or GIF from your iPhone or iPad.
+
+[Landing page](https://truizlop.github.io/morphio-landing/) · [App Store](https://apps.apple.com/app/id6762181669)
+
+### Stay Afloat
+
+[![Stay Afloat — keep the cruise ship's pipes flowing](assets/apps/stay-afloat.png)](https://truizlop.github.io/StayAfloatWebsite/)
+
+Stay Afloat is a real-time pipe-routing game inside a busy cruise ship. Rotate junctions, guide wastewater to treatment, and catch leaks while tiny passengers carry on with their holiday.
+
+[Landing page](https://truizlop.github.io/StayAfloatWebsite/) · [App Store](https://apps.apple.com/app/id6810699722)
+
+### Gut Rush
+
+[![Gut Rush — a tiny bite on a huge adventure](assets/apps/gut-rush.png)](https://truizlop.github.io/gut-rush-website/)
+
+Gut Rush is a playful 3D runner through the digestive system. Guide a tiny bite through eight organ-inspired worlds, dodge obstacles, and discover how digestion works through fast-paced swipe gameplay.
+
+[Landing page](https://truizlop.github.io/gut-rush-website/) · [App Store](https://apps.apple.com/app/id6809466442)
+
+### Daily City Planner
+
+[![Daily City Planner — a daily city-building deduction puzzle](assets/apps/daily-city-planner.png)](https://truizlop.github.io/daily-city-planner-site/)
+
+Daily City Planner is a daily deduction puzzle on a city blueprint. Place streets, parks, lakes, and buildings to satisfy every clue, with one uniquely solvable city to uncover each day.
+
+[Landing page](https://truizlop.github.io/daily-city-planner-site/) · [App Store](https://apps.apple.com/app/id6789138152)
+
+### Plakoro · Coming soon
+
+![Plakoro — a companion for your dice collection, coming soon](assets/apps/plakoro.png)
+
+Plakoro is a companion for collectors of the Pokémon Plakoro series. Browse sets, track owned dice and individual variants, follow your collection's completion, and explore character and move cards in English, Spanish, and Japanese.
+
+**Coming soon.**
+
+### Neon Scrap · Coming soon
+
+![Neon Scrap — tiny tanks, massive mayhem, coming soon](assets/apps/neon-scrap.png)
+
+Neon Scrap is a local two-player tank duel on one shared iPhone. Pick your ride, face off across the screen, and battle with transforming weapons, wraparound arenas, and a bold comic-book style.
+
+**Coming soon.**
