@@ -130,10 +130,10 @@ Plakoro is a companion for collectors of the Pokémon Plakoro series. Browse set
 
 **Coming soon.**
 
-### Neon Scrap · Coming soon
+### Neon Scrap
 
-![Neon Scrap — tiny tanks, massive mayhem, coming soon](assets/apps/neon-scrap.png)
+[![Neon Scrap — tiny tanks, massive mayhem](assets/apps/neon-scrap.png)](https://truizlop.github.io/neon-scrap-site/)
 
 Neon Scrap is a local two-player tank duel on one shared iPhone. Pick your ride, face off across the screen, and battle with transforming weapons, wraparound arenas, and a bold comic-book style.
 
-**Coming soon.**
+[Landing page](https://truizlop.github.io/neon-scrap-site/) · [App Store](https://apps.apple.com/app/id6813610685)

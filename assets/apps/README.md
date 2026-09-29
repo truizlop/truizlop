@@ -71,3 +71,11 @@ Reference: `NeonScrap/Art/icon-v9-source.png`
 Prompt:
 
 Use case: ads-marketing. Create a new ultra-wide horizontal GitHub profile project banner, 3:1 aspect ratio, preferably 1536x512. Cream paper, rough black ink outlines, teal yellow coral painted scrap-metal tanks, dynamic comic illustration matching reference. Large bold condensed exact title 'NEON SCRAP' on left and smaller 'COMING SOON'. Tank on right, energetic coral paint streaks and tiny metal scraps. No purple neon aesthetic. Reference image is for existing product style, not an edit target. Edge-to-edge rectangular banner, no rounded corners or outer frame. Art on right, large title on left, generous safe margins. Only requested title text and COMING SOON; no tagline, buttons, App Store badges, UI screenshots, watermark or other text. Clear at 800px display width.
+
+### Neon Scrap release update (2026-09-29)
+
+Edited `neon-scrap.png` with the built-in imagegen tool, using the existing banner as the edit target.
+
+Prompt:
+
+Use case: precise-object-edit. Edit the supplied Neon Scrap GitHub profile banner. Remove only the words 'COMING SOON' from the lower-left coral brushstroke, leaving that area as a clean coral painted brushstroke with natural texture. Preserve the exact NEON SCRAP title, tank illustration, composition, cream paper background, teal/yellow/coral palette, black ink outlines, aspect ratio 3:1, and all other artwork. No replacement text, no badges, no other changes. Output the complete horizontal banner.
